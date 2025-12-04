@@ -10,7 +10,7 @@
 
 const int WIDTH = 1920;
 const int HEIGHT = 1080;
-const int MAX_ITERATIONS = 1000;
+const int MAX_ITERATIONS = 500;
 
 double xMin = -2.5, xMax = 1.0;
 double yMin = -1.5, yMax = 1.5;
